@@ -39,7 +39,7 @@ int main()
         scanf("%d", &arr[i]);
     }
      
-    bubbleSort(arr, n);
+    bubbleSortfunc(arr, n);
     
     return 0;
 }
